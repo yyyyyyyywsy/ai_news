@@ -68,6 +68,12 @@ h2 {
  padding: 20px 24px;
  margin-bottom: 16px;
  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+ transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 4px 16px rgba(0,0,0,0.12);
 }
 
 .card h3 {
@@ -171,9 +177,19 @@ footer {
  font-size: 0.85rem;
 }
 
+footer a {
+ color: #667eea;
+ text-decoration: none;
+}
+
+footer a:hover {
+ text-decoration: underline;
+}
+
 @media (max-width: 600px) {
  .container { padding: 0 12px; }
  header { padding: 24px 0; }
  header h1 { font-size: 1.5rem; }
  main { padding: 20px 0; }
+ .card { padding: 16px; }
 }
