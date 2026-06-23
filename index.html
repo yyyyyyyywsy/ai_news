@@ -1,119 +1,97 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 热点日报 - 2026年6月14日</title>
+<title>AI 热点日报 - 2026年6月23日</title>
 <link rel="stylesheet" href="style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 </head>
 <body>
 <header>
 <div class="container">
 <h1>AI 热点日报</h1>
-<p class="date">2026年6月14日</p>
+<p class="date">2026年6月23日</p>
 <nav><a href="index.html">首页</a> <a href="archive.html">历史归档</a></nav>
 </div>
 </header>
 <div class="container">
 <main>
 <h2>重点新闻</h2>
+
 <div class="card">
-<h3>1. Claude Code 源码泄露，1.1万行代码全网狂欢</h3>
-<div class="meta"><span class="tag">AI编程</span> 2026-06-13</div>
-<div class="summary">因npm配置错误（.map文件泄露），Claude Code完整源码（900+文件、1.2万行TypeScript）被曝光。发现未发布的Kairos模式、Buddy System、Undercover Mode等隐藏功能。</div>
-<div class="reason">关注理由：揭示顶级AI编程工具内部架构和隐藏功能</div>
+<h3>1. Anthropic 官方发布 Launch Your Agent 技能包</h3>
+<div class="meta"><span class="tag">Anthropic</span><span class="tag">Agent</span> 2026-06-23</div>
+<div class="summary">Anthropic 发布了官方 Claude Code Skills 项目，提供完整技能链帮助开发者从想法出发，经过访谈、原型、部署、评分、迭代，最终上线 Claude Managed Agent。</div>
+<div class="reason">关注理由：Anthropic 官方推出的 Agent 开发方法论落地工具</div>
+<a href="https://github.com/anthropics/launch-your-agent" target="_blank">GitHub →</a>
 </div>
+
 <div class="card">
-<h3>2. Kimi 开源 K2.7-Code + 300个Agent桌面应用</h3>
-<div class="meta"><span class="tag">开源</span><span class="tag">Agent</span> 2026-06-14</div>
-<div class="summary">月之暗面开源Kimi-K2.7-Code（1.1万亿MoE参数、256K上下文），代码基准提升21.8%。支持300个子Agent并行协作，高速版输出260 Token/s。</div>
-<div class="reason">关注理由：开源+闭源组合拳，300个Agent协同的数字组织模式</div>
+<h3>2. Windows Copilot 被逆向为 OpenAI 兼容 API</h3>
+<div class="meta"><span class="tag">安全</span><span class="tag">免费</span> 2026-06-23</div>
+<div class="summary">项目将 Windows Copilot 逆向工程化为 OpenAI 兼容 REST API，无需 API Key 或计费即可访问 GPT-4 和 GPT-5 模型，短时间内获得 385 Stars。</div>
+<div class="reason">关注理由：让普通用户免费调用 GPT-4/GPT-5 的可能性引发广泛讨论</div>
+<a href="https://github.com/sums001/Windows-Copilot-API" target="_blank">GitHub →</a>
 </div>
+
 <div class="card">
-<h3>3. Anthropic最强模型被美国政府叫停</h3>
-<div class="meta"><span class="tag">地缘政治</span> 2026-06-14</div>
-<div class="summary">Claude Fable5和Mythos5上线仅1天，美国政府以国家安全为由要求暂停外国国民访问。Fable5支持100万token上下文，Mythos5拥有世界最强网络安全能力。</div>
-<div class="reason">关注理由：地缘政治对AI模型出口管制影响加深</div>
+<h3>3. GLM-5.2 在 Blackwell GPU 集群上一键部署</h3>
+<div class="meta"><span class="tag">国产大模型</span><span class="tag">部署</span> 2026-06-22</div>
+<div class="summary">提供了在 SM120 (4× RTX PRO 6000 Blackwell) 上部署 GLM-5.2-NVFP4-REAP-469B 的一键 vLLM 启动方案，支持 250K 上下文窗口，采用 DeepSeek Sparse Attention + MTP 推测解码。</div>
+<div class="reason">关注理由：国产大模型在最新 NVIDIA Blackwell 硬件上的极致性能优化</div>
+<a href="https://github.com/0xSero/glm-5.2-sm120" target="_blank">GitHub →</a>
 </div>
+
 <div class="card">
-<h3>4. 智谱 GLM-4-Flash 完全免费开源</h3>
-<div class="meta"><span class="tag">开源</span><span class="tag">免费API</span> 2026-06-13</div>
-<div class="summary">GLM-4-Flash以MIT协议完全开源，提供免费API调用。支持200K上下文窗口，性能对标GPT-4o。</div>
-<div class="reason">关注理由：MIT协议开源，零成本接入顶级大模型</div>
+<h3>4. Codex Control Plane MCP — 长期任务的耐久控制面</h3>
+<div class="meta"><span class="tag">MCP</span><span class="tag">基础设施</span> 2026-06-21</div>
+<div class="summary">为 Codex Desktop 的长期运行任务提供耐久 MCP 控制平面，支持任务调度、状态持久化和错误恢复。</div>
+<div class="reason">关注理由：解决 AI Agent 长期运行的可靠性问题</div>
+<a href="https://github.com/aresyn/codex-control-plane-mcp" target="_blank">GitHub →</a>
 </div>
+
 <div class="card">
-<h3>5. 英伟达开源 Nemotron 3，10万亿token训练数据全公开</h3>
-<div class="meta"><span class="tag">开源</span><span class="tag">训练数据</span> 2026-06-11</div>
-<div class="summary">混合Mamba-Transformer MoE架构，NVFP4低精度训练。开放模型权重及10万亿token训练数据集，Apache 2.0协议。</div>
-<div class="reason">关注理由：数据集全公开前所未有，降低大模型训练门槛</div>
+<h3>5. Recall — 告别每次重复解释项目上下文</h3>
+<div class="meta"><span class="tag">Claude Code</span><span class="tag">Memory</span> 2026-06-22</div>
+<div class="summary">为 Claude Code 提供持久 memory 系统，避免每次会话重新解释项目背景。支持跨会话项目记忆和上下文恢复。</div>
+<div class="reason">关注理由：直击 AI 编程助手最大的痛点——上下文丢失问题</div>
+<a href="https://github.com/raiyanyahya/recall" target="_blank">GitHub →</a>
 </div>
-<div class="card">
-<h3>6. 商汤开源 SenseNova-MARS，首个多模态自主推理模型</h3>
-<div class="meta"><span class="tag">开源</span><span class="tag">多模态</span> 2026-06-11</div>
-<div class="summary">8B/32B两种规模，支持动态视觉推理与图文搜索深度融合。32B版本在七大基准中超越GPT-5.2和Gemini-3-Pro。创新BN-GSPO强化学习算法。</div>
-<div class="reason">关注理由：开源多模态模型SOTA，Agentic VLM新范式</div>
-</div>
-<div class="card">
-<h3>7. 微软发布 MAI-Thinking-1，零蒸馏追平 Claude Opus 4.6</h3>
-<div class="meta"><span class="tag">微软</span><span class="tag">AI编程</span> 2026-06-13</div>
-<div class="summary">Build 2026发布7款MAI系列自研模型，全部从零训练零蒸馏。MAI-Code-1-Flash（10亿参数）SWE-Bench Pro 71.2%，已集成VS Code和GitHub Copilot。</div>
-<div class="reason">关注理由：微软AI独立日，VS Code集成编程模型</div>
-</div>
-<div class="card">
-<h3>8. NVIDIA Cosmos 3：物理AI开放基础模型</h3>
-<div class="meta"><span class="tag">物理AI</span><span class="tag">机器人</span> 2026-06-01</div>
-<div class="summary">全球首款完全开放的全模态模型，基于混合Transformer架构，支持文本/图像/视频/环境/动作的多模态生成。成立Cosmos Coalition联盟。</div>
-<div class="reason">关注理由：物理AI/机器人领域的开源里程碑</div>
-</div>
-<div class="card">
-<h3>9. 京东开源 JoyAI-LLM-Flash，48B参数3B激活</h3>
-<div class="meta"><span class="tag">开源</span><span class="tag">端侧部署</span> 2026-06-10</div>
-<div class="summary">MoE架构，总参数48B但每token仅激活3B，支持128K上下文。创新性将纤维丛理论引入强化学习（FiberPO），多Token预测提升吞吐量1.3-1.7倍。</div>
-<div class="reason">关注理由：极致效率优化，端侧AI助手的可行方案</div>
-</div>
-<h2>AI 实用资源</h2>
-<div class="resource-section">
-<h3>免费 API 和 Token</h3>
+
+<h2>🧠 热门开源项目</h2>
 <table>
-<tr><th>平台</th><th>免费额度</th><th>说明</th></tr>
-<tr><td>智谱 GLM-4-Flash</td><td>完全免费</td><td>MIT开源，200K上下文</td></tr>
-<tr><td>智谱 GLM-Z1-Flash</td><td>完全免费</td><td>推理模型免费用</td></tr>
-<tr><td>Free.ai</td><td>30,000 tokens/天</td><td>400+ AI工具，OpenAI兼容</td></tr>
-<tr><td>FreeTheAi</td><td>免费</td><td>50+模型，无需信用卡</td></tr>
+<tr><th>项目</th><th>Stars</th><th>简介</th></tr>
+<tr><td><a href="https://github.com/rebel0789/codexpro" target="_blank">codexpro</a></td><td>728</td><td>ChatGPT Developer Mode 本地编码 Agent (MCP)</td></tr>
+<tr><td><a href="https://github.com/Forsy-AI/agent-apprenticeship" target="_blank">agent-apprenticeship</a></td><td>692</td><td>AI Agent 从真实世界学习中进化的生态系统</td></tr>
+<tr><td><a href="https://github.com/Plaer1/junction" target="_blank">junction</a></td><td>526</td><td>VS Code 聊天侧边栏，本地 AI 编码 Agent</td></tr>
+<tr><td><a href="https://github.com/anthropics/launch-your-agent" target="_blank">launch-your-agent</a></td><td>431</td><td>Anthropic 官方 Agent 开发技能包</td></tr>
+<tr><td><a href="https://github.com/sums001/Windows-Copilot-API" target="_blank">Windows-Copilot-API</a></td><td>385</td><td>Windows Copilot 逆向为 OpenAI 兼容 API</td></tr>
+<tr><td><a href="https://github.com/raiyanyahya/recall" target="_blank">recall</a></td><td>335</td><td>Claude Code 持久记忆系统</td></tr>
+<tr><td><a href="https://github.com/eooce/transfer-api" target="_blank">transfer-api</a></td><td>297</td><td>Cloudflare Worker 适配 OpenAI/Anthropic API</td></tr>
+<tr><td><a href="https://github.com/aresyn/codex-control-plane-mcp" target="_blank">codex-control-plane-mcp</a></td><td>221</td><td>Codex Desktop 耐久 MCP 控制面</td></tr>
 </table>
-</div>
-<div class="resource-section">
-<h3>MCP Server 推荐</h3>
+
+<h2>🎁 免费与折扣优惠</h2>
 <table>
-<tr><th>项目</th><th>功能</th><th>适用场景</th></tr>
-<tr><td>skill-library-mcp</td><td>15,000+技能按需加载</td><td>AI编程助手扩展</td></tr>
-<tr><td>0nMCP</td><td>995+工具、15个服务</td><td>全能型MCP服务</td></tr>
-<tr><td>openai-mcp-server</td><td>42个OpenAI API工具</td><td>OpenAI全功能MCP</td></tr>
-<tr><td>GetMCP</td><td>任意API转MCP</td><td>WordPress插件</td></tr>
+<tr><th>资源</th><th>类型</th><th>说明</th></tr>
+<tr><td><a href="https://github.com/abbosaliboev/free-ai-bible" target="_blank">Free AI Bible</a></td><td>目录</td><td>700+ 免费 AI API，LLM/图像/托管/本地</td></tr>
+<tr><td><a href="https://github.com/SimonLee99999/awesome-free-ai-apis" target="_blank">Awesome Free AI APIs</a></td><td>目录</td><td>精选免费 AI API，无信用卡要求</td></tr>
+<tr><td>GLM-5.2</td><td>模型</td><td>智谱最新模型，社区免费本地运行</td></tr>
+<tr><td>MiniMax M3</td><td>模型</td><td>1M 上下文窗口，社区免费 API 代理</td></tr>
+<tr><td>transfer-api</td><td>代理</td><td>Cloudflare Worker 转发 OpenAI/Anthropic API</td></tr>
 </table>
-</div>
+
+<h2>📈 值得关注的趋势</h2>
 <div class="resource-section">
-<h3>开源模型推荐</h3>
-<table>
-<tr><th>模型</th><th>参数</th><th>特点</th><th>许可</th></tr>
-<tr><td>Kimi-K2.7-Code</td><td>1.1T MoE</td><td>代码基准提升21.8%</td><td>开源</td></tr>
-<tr><td>GLM-4-Flash</td><td>-</td><td>完全免费API</td><td>MIT</td></tr>
-<tr><td>Nemotron 3</td><td>多规格</td><td>10万亿token数据公开</td><td>Apache 2.0</td></tr>
-<tr><td>SenseNova-MARS</td><td>8B/32B</td><td>超越GPT-5.2</td><td>开源</td></tr>
-<tr><td>JoyAI-LLM-Flash</td><td>48B(3B激活)</td><td>端侧部署</td><td>开源</td></tr>
-</table>
-</div>
-<h2>值得关注的趋势</h2>
-<div class="resource-section">
-<div class="trend-item"><strong>1. 开源与地缘政治交织</strong> - Anthropic被限制出口，但智谱MIT开源、Nemotron数据全公开等趋势并行。</div>
-<div class="trend-item"><strong>2. Agent协同成为新范式</strong> - Kimi 300个Agent桌面应用、Claude Code Coordinator模式。</div>
-<div class="trend-item"><strong>3. 端侧部署加速</strong> - 京东JoyAI（3B激活）、智谱Flash免费版，大模型下沉到边缘设备。</div>
-<div class="trend-item"><strong>4. AI编程工具开源化</strong> - Claude Code源码泄露、Kimi K2.7-Code开源、微软MAI集成VS Code。</div>
-<div class="trend-item"><strong>5. 物理AI/机器人基础模型</strong> - NVIDIA Cosmos 3开启物理AI开源时代。</div>
+<div class="trend-item"><strong>1. MCP 生态爆发</strong> — 从 Codex Control Plane 到 Yolfi Agent，MCP 正成为 AI Agent 标准接口层</div>
+<div class="trend-item"><strong>2. Agent 自我进化</strong> — Agent Apprenticeship 展示 AI Agent 通过迭代反馈自我进化的方向</div>
+<div class="trend-item"><strong>3. 免费访问闭源模型</strong> — Windows Copilot 逆向、transfer-api 等探索免费调用 GPT-4/GPT-5/Anthropic</div>
+<div class="trend-item"><strong>4. 国产大模型加速</strong> — GLM-5.2 在 Blackwell 上的优化部署，展示中国 AI 基础设施快速进步</div>
+<div class="trend-item"><strong>5. 本地 AI 平民化</strong> — 更多项目让普通用户能在本地运行大模型（Unsloth/gguf/llama.cpp/Ollama）</div>
 </div>
 </main>
-<footer><p>AI 热点日报 | 自动生成 | <a href="https://github.com/yyyyyyyywsy/ai_news">GitHub</a></p></footer>
+<footer><p>AI 热点日报 | 自动生成 | <a href="https://github.com/yyyyyyyywsy/ai_news" target="_blank">GitHub</a></p></footer>
 </div>
 </body>
 </html>
