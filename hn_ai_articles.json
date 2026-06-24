@@ -1,27 +1,32 @@
 [
   {
-    "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
-    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-    "score": 103
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "score": 329
   },
   {
-    "title": "The Low-Tech AI of Elden Ring",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "score": 82
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "score": 292
   },
   {
-    "title": "Don't verify email addresses by sending spam to them",
-    "url": "https://milek7.pl/mailverifyspam/",
-    "score": 71
+    "title": "Thomann takes legal action against Fender",
+    "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+    "score": 126
   },
   {
-    "title": "All train services in Germany halted after train radio communications disruption",
-    "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
-    "score": 56
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "score": 120
   },
   {
-    "title": "German Rail Service Suspended Due to Radio Interference",
-    "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
-    "score": 54
+    "title": "Why eval startups fail (2025)",
+    "url": "https://thomasliao.com/eval-startups",
+    "score": 87
+  },
+  {
+    "title": "Big AI labs are hiring philosophers",
+    "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+    "score": 70
   }
 ]
