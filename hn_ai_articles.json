@@ -1,12 +1,22 @@
 [
   {
-    "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-    "score": 120
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "score": 158
   },
   {
-    "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-    "score": 89
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "score": 70
+  },
+  {
+    "title": "Librepods: AirPods liberated from Apple's ecosystem",
+    "url": "https://github.com/librepods-org/librepods",
+    "score": 68
+  },
+  {
+    "title": "Ford rehires 'gray beard' engineers after AI falls short",
+    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "score": 51
   }
 ]
