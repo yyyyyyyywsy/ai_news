@@ -1,17 +1,37 @@
 [
   {
-    "title": "Nintendo has raised its employees base salary by 10%",
-    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-    "score": 400
+    "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+    "score": 332
   },
   {
-    "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-    "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-    "score": 232
+    "title": "The primary purpose of code review is to find code that will be hard to maintain",
+    "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+    "score": 221
   },
   {
-    "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
-    "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
-    "score": 101
+    "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "score": 219
+  },
+  {
+    "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+    "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+    "score": 194
+  },
+  {
+    "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+    "url": "https://arxiv.org/abs/2607.01232",
+    "score": 88
+  },
+  {
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "score": 80
+  },
+  {
+    "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+    "url": "https://mailmemories.com",
+    "score": 75
   }
 ]
