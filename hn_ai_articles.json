@@ -1,7 +1,7 @@
 [
   {
-    "title": "What AI did to stackoverflow in a graph",
-    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-    "score": 224
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "score": 170
   }
 ]
