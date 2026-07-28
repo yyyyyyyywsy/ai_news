@@ -1,22 +1,27 @@
 [
   {
-    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-    "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-    "score": 1181
+    "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "score": 110
   },
   {
-    "title": "AI companies spend record sums on Washington lobbying",
-    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-    "score": 171
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "score": 107
   },
   {
-    "title": "Modern email can be built from borrowed parts",
-    "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-    "score": 112
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "score": 86
   },
   {
-    "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-    "score": 56
+    "title": "Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules",
+    "url": "https://necroticgnome.com/collections/dolmenwood",
+    "score": 53
+  },
+  {
+    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+    "score": 50
   }
 ]
