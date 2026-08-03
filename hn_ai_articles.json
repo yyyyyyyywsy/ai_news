@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Bonsai: Janestreet's UI Library",
+    "url": "https://github.com/janestreet/bonsai",
+    "score": 224
+  },
+  {
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "url": "https://github.com/lyogavin/airllm",
+    "score": 132
+  },
+  {
+    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "url": "https://github.com/garagehq/nightcrawler/",
+    "score": 81
+  },
+  {
+    "title": "Train Simulator Controller",
+    "url": "https://z80.me/blog/tsc-2026-july/",
+    "score": 80
+  }
+]
