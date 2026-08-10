@@ -1,7 +1,22 @@
 [
   {
-    "title": "Fastmail offers EU data region",
-    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "score": 481
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 473
+  },
+  {
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "score": 314
+  },
+  {
+    "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
+    "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
+    "score": 98
+  },
+  {
+    "title": "Tail-call optimization in C is relatively recent",
+    "url": "https://lwn.net/Articles/1034703/",
+    "score": 77
   }
 ]
