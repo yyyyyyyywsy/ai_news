@@ -1,17 +1,22 @@
 [
   {
-    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-    "score": 186
+    "title": "GitHub down again? no PR access",
+    "url": "",
+    "score": 262
   },
   {
-    "title": "AI in drug discovery – what it is, where we stand and the path forward",
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "score": 170
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "score": 171
   },
   {
-    "title": "The AI Credit Resale Economy",
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "score": 65
+    "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "score": 87
+  },
+  {
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "score": 64
   }
 ]
