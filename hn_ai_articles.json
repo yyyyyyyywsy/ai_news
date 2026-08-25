@@ -1,37 +1,27 @@
 [
   {
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-    "score": 710
-  },
-  {
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "score": 293
-  },
-  {
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "score": 136
-  },
-  {
-    "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
-    "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
-    "score": 93
-  },
-  {
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "score": 89
-  },
-  {
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "score": 75
+    "score": 810
   },
   {
-    "title": "Coding expertise is going to collapse from AI reliance",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "score": 62
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "score": 569
+  },
+  {
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "score": 456
+  },
+  {
+    "title": "Training AI to Paint with Code",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "score": 169
+  },
+  {
+    "title": "How much of HN is AI?",
+    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "score": 127
   }
 ]
