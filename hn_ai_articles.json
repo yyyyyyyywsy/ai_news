@@ -1,17 +1,12 @@
 [
   {
-    "title": "U.S. sanctions against the A/I Collective",
-    "url": "https://www.inventati.org/",
-    "score": 457
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "score": 435
   },
   {
-    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-    "score": 429
-  },
-  {
-    "title": "Stopping the smart TV from being used against you",
-    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-    "score": 136
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "score": 182
   }
 ]
