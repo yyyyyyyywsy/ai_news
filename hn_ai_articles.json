@@ -1,22 +1,32 @@
 [
   {
-    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-    "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-    "score": 582
+    "title": "Mistral now trains on user input by default, except on enterprise tier",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "score": 286
   },
   {
-    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "score": 392
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "score": 227
   },
   {
-    "title": "American Airlines mechanic Azriel “Al” Blackman has died, aged 100",
-    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-    "score": 324
+    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "score": 137
   },
   {
-    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-    "score": 102
+    "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+    "score": 125
+  },
+  {
+    "title": "A third of Perplexity's citations don't contain the number they're cited for",
+    "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+    "score": 119
+  },
+  {
+    "title": "Paint.net 5.2 alpha now runs on Linux",
+    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+    "score": 88
   }
 ]
