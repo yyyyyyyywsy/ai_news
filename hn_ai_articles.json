@@ -2,36 +2,16 @@
   {
     "title": "Discovery of a new OpenAI agent message board",
     "url": "https://collusion.wiki/",
-    "score": 1082
+    "score": 1944
   },
   {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "url": "https://inference-docs.cerebras.ai/models/overview",
-    "score": 665
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "score": 313
   },
   {
-    "title": "The largest electric aircraft just flew [video]",
-    "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-    "score": 441
-  },
-  {
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "score": 318
-  },
-  {
-    "title": "Corporate America is getting hooked on open-source AI",
-    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "score": 170
-  },
-  {
-    "title": "How Fairphone built the Fairphone Gen 6+",
-    "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-    "score": 159
-  },
-  {
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "score": 89
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "score": 297
   }
 ]
