@@ -1,17 +1,22 @@
 [
   {
-    "title": "Mistral raises €3B",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "score": 767
+    "title": "Tailwind Labs is joining Shopify",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "score": 635
   },
   {
-    "title": "There's a new \"Google Jail\" for independent wikis",
-    "url": "https://weirdgloop.org/blog/google-jail",
-    "score": 468
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "score": 612
   },
   {
-    "title": "The two Christian saints who are the Buddha",
-    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-    "score": 143
+    "title": "Apple Introduces AirPods 5",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "score": 128
+  },
+  {
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "score": 81
   }
 ]
