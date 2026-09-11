@@ -1,12 +1,17 @@
 [
   {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "score": 268
+    "title": "Claude is only available to people over 18 years",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "score": 401
   },
   {
-    "title": ">10x More Efficient Pretraining",
-    "url": "https://magic.dev/blog/pretraining#",
-    "score": 87
+    "title": "A Misalignment of AI in Mathematics",
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "score": 79
+  },
+  {
+    "title": "Show HN: Hacker News, Without AI",
+    "url": "https://www.unslop.news/",
+    "score": 71
   }
 ]
