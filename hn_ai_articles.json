@@ -1,17 +1,22 @@
 [
   {
-    "title": "Claude is only available to people over 18 years",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "score": 401
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "score": 1144
   },
   {
-    "title": "A Misalignment of AI in Mathematics",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "score": 79
+    "title": "A Design Space Exploration of Async/Await",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "score": 389
   },
   {
-    "title": "Show HN: Hacker News, Without AI",
-    "url": "https://www.unslop.news/",
-    "score": 71
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "score": 167
+  },
+  {
+    "title": "The worst spam emails: iLands AI agent hustle",
+    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "score": 78
   }
 ]
