@@ -1,12 +1,7 @@
 [
   {
-    "title": "Martian chaos terrain",
-    "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-    "score": 91
-  },
-  {
-    "title": "Linux containers in 500 lines of code (2016)",
-    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-    "score": 80
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "score": 261
   }
 ]
