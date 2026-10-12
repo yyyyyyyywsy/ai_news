@@ -1,7 +1,27 @@
 [
   {
-    "title": "I paid people to try and follow my README",
-    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-    "score": 323
+    "title": "QGIS enacts moratorium on AI contributions",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "score": 359
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "score": 278
+  },
+  {
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "score": 137
+  },
+  {
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "url": "https://taylor.town/kk-ai-2026",
+    "score": 109
+  },
+  {
+    "title": "AI Is a Tool. Using It Well Takes Skill.",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "score": 95
   }
 ]
