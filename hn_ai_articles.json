@@ -1,12 +1,22 @@
 [
   {
-    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "score": 186
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "score": 197
   },
   {
-    "title": "Why We're Banning AI",
-    "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-    "score": 99
+    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+    "score": 126
+  },
+  {
+    "title": "Inside Polymarket's paid quote-retweet esports program",
+    "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+    "score": 78
+  },
+  {
+    "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+    "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+    "score": 73
   }
 ]
