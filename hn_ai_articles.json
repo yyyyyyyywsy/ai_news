@@ -1,17 +1,22 @@
 [
   {
-    "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-    "score": 232
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "score": 371
   },
   {
-    "title": "Zombie stats: Where the numbers AI quotes come from",
-    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-    "score": 117
+    "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+    "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+    "score": 148
   },
   {
-    "title": "What we know so far about Spain train crash",
-    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-    "score": 108
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "score": 100
+  },
+  {
+    "title": "Building an AI-native engineering org",
+    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "score": 55
   }
 ]
