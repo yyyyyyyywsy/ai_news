@@ -1,17 +1,22 @@
 [
   {
-    "title": "The AI cost of JavaScript frameworks",
-    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-    "score": 242
+    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "score": 128
   },
   {
-    "title": "Frontier Airlines Likely Breached",
-    "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-    "score": 108
+    "title": "Egoless Mathematics in the AI Era",
+    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "score": 91
   },
   {
-    "title": "Understanding Email Encryption",
-    "url": "https://www.fastmail.com/blog/email-encryption/",
-    "score": 103
+    "title": "Agentic backdoors via pretraining poisoning",
+    "url": "https://arxiv.org/abs/2610.37741",
+    "score": 78
+  },
+  {
+    "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+    "score": 53
   }
 ]
