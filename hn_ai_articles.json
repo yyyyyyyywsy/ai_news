@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "score": 613
+  },
+  {
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "score": 257
+  },
+  {
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "score": 113
+  },
+  {
+    "title": "No AI Slop: A Manifesto",
+    "url": "https://www.slopmanifesto.com/",
+    "score": 107
+  },
+  {
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "score": 55
+  },
+  {
+    "title": "All US airports are currently ground stopped",
+    "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+    "score": 50
+  }
+]
